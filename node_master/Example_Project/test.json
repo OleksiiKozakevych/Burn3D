@@ -1,0 +1,60 @@
+{
+    "nodes": [
+        {
+            "type": "Solver_Node",
+            "x": 5579,
+            "y": 5301,
+            "index": "9"
+        },
+        {
+            "type": "Propellant_Node",
+            "x": 5252,
+            "y": 5603,
+            "index": "8"
+        },
+        {
+            "type": "Nozzle_Node",
+            "x": 5234,
+            "y": 5331,
+            "index": "7"
+        },
+        {
+            "type": "Mesh_Node",
+            "x": 5219,
+            "y": 5165,
+            "index": "6"
+        },
+        {
+            "type": "Grain_Node",
+            "x": 4899,
+            "y": 5241,
+            "index": "5"
+        }
+    ],
+    "connections": [
+        {
+            "start_id": "7",
+            "end_id": "9",
+            "start_pin": "data",
+            "end_pin": "input_nozzle"
+        },
+        {
+            "start_id": "8",
+            "end_id": "9",
+            "start_pin": "data",
+            "end_pin": "input_propellant"
+        },
+        {
+            "start_id": "6",
+            "end_id": "9",
+            "start_pin": "output_data",
+            "end_pin": "input_mesh"
+        },
+        {
+            "start_id": "5",
+            "end_id": "6",
+            "start_pin": "file",
+            "end_pin": "input_data"
+        }
+    ]
+}
