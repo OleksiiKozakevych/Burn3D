@@ -1,0 +1,11 @@
+pyqtdarktheme
+numpy==1.24.3
+Pint==0.24.4
+PySide6==6.9.1
+PySide6==6.9.1
+PySide6_Addons==6.9.1
+PySide6_Essentials==6.9.1
+scikit_fmm==2023.4.2
+scikit_image==0.18.3
+scipy==1.16.0
+trimesh==4.6.6
