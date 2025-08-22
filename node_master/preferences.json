@@ -1,0 +1,14 @@
+{
+    "units": {
+        "Length": "mm",
+        "Volume": "m^3",
+        "Velocity": "m/s",
+        "Force": "N",
+        "Impulse": "N*s",
+        "Pressure": "MPa",
+        "Mass": "kg",
+        "Density": "kg/m^3",
+        "Mass Flow": "kg/s",
+        "Burn Rate Coefficient": "m/(s*Pa^n)"
+    }
+}
