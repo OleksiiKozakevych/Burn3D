@@ -1,0 +1,18 @@
+{
+  "KNSU Nakka": {
+    "density": "1800.0 kilogram/meter**3",
+    "a": "0.000101 meter/pascal**0.319/second",
+    "n": "0.319",
+    "gamma": "1.133",
+    "T": "1720 kelvin",
+    "M": "41.981 gram/mol"
+  },
+  "APCP": {
+    "density": "1700 kilogram/meter**3",
+    "a": "0.0001 meter/pascal**0.4/second",
+    "n": "0.4",
+    "gamma": "1.2",
+    "T": "3200 kelvin",
+    "M": "24.0 gram/mol"
+  }
+}
