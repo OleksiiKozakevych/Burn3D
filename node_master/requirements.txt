@@ -1,2 +1,0 @@
-pyqtdarktheme
-PySide6
